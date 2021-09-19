@@ -60,8 +60,13 @@
     },
     "keywords": [
         "React",
-        "Qraphql",
-        "MongoDB",
+        "React16",
+        "es6",
+        "babel",
+        "eslint",
+        "jest",
+        "enzyme",
+        "webpack5",
         "boilerplate"
     ],
     "license": "ISC"
