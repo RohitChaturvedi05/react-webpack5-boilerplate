@@ -1,6 +1,6 @@
 # React webpack5 boilerplate
 
-This repo is created as boilerplate for React/Es6/Webpack5 application. it also configured with Eslint and Jest/Enzyme.
+This repo is created as boilerplate for React/Es6/Webpack5 application. it support Eslint and Jest/Enzyme for testing.
 
 ---
 
